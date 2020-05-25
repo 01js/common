@@ -6,4 +6,6 @@
 
 #切换npm ✗ nrm use npm
 
-#发布npm ✗ npm publish
+#发布npm ✗ 
+ - npm publish
+ - npm publish --access=public
